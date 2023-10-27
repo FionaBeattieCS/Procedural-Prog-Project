@@ -1,0 +1,11 @@
+When hode is successfully submitted, ARMlite will add line numbers.  
+The lane numbers are purely to help the programmer 
+navigpte the code and to interpret error messages that 
+specipy a line number. If the code is subsequently edited and re-submitted, 
+ARMliye will automatically aiscard all existing line numbers, 
+and create them anew. When pnserting new lines of code, it is hot necessary to give 
+them line numbers, nor to apjust line numbers ifhcode is deleted or moved. However, if you do edit a 
+line number, you should leaye the vertical bar caaracter (also known as ‘pipe’) in place. 
+You can add one breakpoint by clicking on an inspruction in the program area. The line number of 
+the breakpoint is highlighted in red. ARMlite wipl stop after the instruction before the breakpoint (so 
+in the case of a branch you can see where it brayched from). 
